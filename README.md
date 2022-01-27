@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoopsieDaisy
 - 👀 I’m interested in aeronautical and mechanical engineering, robotics, and computer science!
-- 🌱 I’m currently learning aerospace engineering with a minor in computational data analytics
+- 🌱 I’m currently learning aerospace engineering, data analytics, and frontend development
 - 💞️ I’m looking to collaborate on cool robotics projects (especially when things move!)
 - 📫 How to reach me ...
 
